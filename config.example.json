@@ -1,0 +1,10 @@
+{
+  "vaults": {"main": "./my-vault"},
+  "default_vault": "main",
+  "state_dir": "./local-state",
+  "publication_since": null,
+  "timezone": "Asia/Shanghai",
+  "process_limit": 20,
+  "adapter_command": [],
+  "adapter_timeout_seconds": 1800
+}

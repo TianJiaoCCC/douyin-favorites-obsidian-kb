@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin Favorites to Obsidian KB"
+  short_description: "整理视频、图文和书籍为有来源的知识笔记，管理多库检索、分类与新增同步"
+  default_prompt: "使用 $douyin-favorites-obsidian-kb 建立我的个人知识库，区分新增同步与历史补录，保留来源并生成分类入口。"
